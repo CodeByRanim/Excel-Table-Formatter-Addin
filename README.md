@@ -4,6 +4,8 @@
 
 ## 🚀 **Présentation**
 Cet Add-in VBA permet de :
+
+
 ✅ Mettre en forme automatiquement les tableaux Excel  
 ✅ Supprimer les doublons  
 ✅ Ajuster les colonnes et mettre en gras les en-têtes  
